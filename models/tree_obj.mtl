@@ -1,0 +1,24 @@
+# Blender MTL File: 'Candle Scene StartUp File.blend'
+# Material Count: 2
+
+newmtl Material_u1_v1
+Ns 4.499998
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd cherry-tree\\source\\cherry-trunk_u1_v1.tif
+
+newmtl Material_u2_v1
+Ns 4.499998
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd cherry-tree\\source\\cherry-trunk_u2_v1.tif
